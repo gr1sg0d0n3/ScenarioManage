@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TextAdventure">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/TextAdventure_jar/TextAdventure.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
